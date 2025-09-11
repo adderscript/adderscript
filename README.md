@@ -42,7 +42,7 @@
 
 🐸 **Fun Fact**
 
-> My pet frog, Syntax the green, is the real QA tester for my games! 🐸🎮
+> My pet frog, Syntax the green, is my playtester for all my games! 🐸🎮
 
 ---
 
