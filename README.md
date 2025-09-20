@@ -14,7 +14,7 @@
 - 🕹️ Mainly build games using **C#** (with raylib-cs) and **Godot** (with C#).
 - 📝 Know my way around **Lua** and love experimenting with languages like **Go**, **Swift**, and more.
 - 💻 Enjoy building and upgrading PCs.
-- 🐸 Proud frog parent to <b>Syntax the green</b>!
+- 🐸 Proud frog owner to <b>Syntax the green</b>!
 
 ---
 
