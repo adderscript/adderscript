@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm adderscript! 👋</h1>
 
 <p align="center">
-  <b>High school student | Aspiring Game Developer | Code Experimenter</b>
+  <b>High school student | Aspiring Game Developer</b>
 </p>
 
 ---
