@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm adderscript! 👋</h1>
 
 <p align="center">
-  <b>High school student | Aspiring Game Developer</b>
+  <b>High school student | Want-to-be Developer</b>
 </p>
 
 ---
@@ -11,17 +11,18 @@
 🎮 **About Me**
 
 - 🖥️ High school student passionate about game development and computers.
-- 🕹️ Mainly build games using **C#** (with raylib-cs) and **Godot** (with C#).
+- 🕹️ Mainly build games using **C++** with raylib and **C#** with monogame.
 - 📝 Know my way around **Lua** and love experimenting with languages like **Go**, **Swift**, and more.
 - 💻 Enjoy building and upgrading PCs.
-- 🐸 Proud frog owner to <b>Syntax the green</b>!
+- 🐸 Frog owner to <b>Syntax the green</b>!
 
 ---
 
 🚀 **Featured Projects**
 
-- 🕹️ Explore my Godot-made games & experiments on [my website](https://adderscript.net)!
+- 🕹️ Explore my games & experiments on [my website](https://adderscript.net)!
 - ⭐ [swift-raylib](https://github.com/adderscript/swift-raylib) — Bringing raylib to Swift!
+- 🧰 [froglib]("https://github.com/adderscript/froglib") - A small raylib game framework.
 - 🛠️ [lazyvim-conf](https://github.com/adderscript/lazyvim-conf) — My personal LazyVim config.
 - 🖥️ [bspwm-conf](https://github.com/adderscript/bspwm-conf) — Custom BSPWM configuration.
 - 🌐 [adderscript.net](https://github.com/adderscript/adderscript.net) — Source for my website and game gallery.
@@ -30,6 +31,7 @@
 
 🛠️ **Tech & Tools**
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
