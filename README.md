@@ -1,4 +1,4 @@
-# Hey, I’m Alasdair
+# Hello, I’m Alasdair
 
 I like programming games and making frameworks. Most of my projects are small, but I enjoy figuring out how everything fits together and building my own systems from scratch.  
 
